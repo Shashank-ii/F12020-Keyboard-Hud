@@ -31,5 +31,9 @@ Keyboard: Ant Esports MK1300V2
 VID: 0x36ae
 PID: 0xfe9c
 
+## Usage
 
-TO RUN - Run the python script "Hud.py" and set the lighting mode to "Userlight"/"Custom" Modde
+Run the Python script and set the keyboard lighting mode to `Userlight` or `Custom` mode.
+
+```bash
+python Hud.py
